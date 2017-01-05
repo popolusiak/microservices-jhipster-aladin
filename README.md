@@ -1,0 +1,1 @@
+# microservices-jhipster-aladin
